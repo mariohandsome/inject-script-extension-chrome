@@ -1,10 +1,10 @@
 {
-  "name": "Remove Logo",
-  "description": "Remove logo website",
+  "name": "JS Custom",
+  "description": "Javascript customer your website - www.tranduythien.net",
   "version": "0.0.1",
   "manifest_version": 2,
   "browser_action": {
-    "default_title": "Remove Logo",
+    "default_title": "Javascript customer your website - www.tranduythien.net",
     "default_icon": "icons/logo.png"
   },
   "icons": { 
